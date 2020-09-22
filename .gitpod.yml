@@ -1,3 +1,7 @@
 tasks:
   - init: mvn -f maven-bank-example/pom.xml clean compile
     command: 'echo "TODO: Replace with command to start project"'
+
+vscode:
+  extensions:
+    - vscjava.vscode-java-test@0.24.1:adMLnibuhohxpDp7AmLe9g==

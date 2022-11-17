@@ -2,3 +2,4 @@
 vscode:
   extensions:
     - vscjava.vscode-java-pack
+    - eamodio.gitlens
